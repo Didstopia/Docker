@@ -1,1 +1,3 @@
-.git
+docker_*.sh
+.git/
+.git*
